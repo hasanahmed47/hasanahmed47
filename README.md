@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/hasanahmed47/hasanahmed47/blob/main/coding.jpeg?raw=true)
+//![MasterHead](https://github.com/hasanahmed47/hasanahmed47/blob/main/coding.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Muhammad Hasan Ahmed</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
