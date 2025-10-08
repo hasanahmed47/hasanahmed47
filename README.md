@@ -1,5 +1,7 @@
+![MasterHead](https://github.com/hasanahmed47/hasanahmed47/blob/main/dWesBcTLavkZuG35MI.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Muhammad Hasan Ahmed</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<img align="right" width="400" src="https://github.com/hasanahmed47/hasanahmed47/blob/main/gXr3j6YAClXFfZABn5.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanahmed47&label=Profile%20views&color=0e75b6&style=flat" alt="hasanahmed47" /> </p>
 
