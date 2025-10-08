@@ -1,12 +1,12 @@
 ![MasterHead](https://github.com/hasanahmed47/hasanahmed47/blob/main/dWesBcTLavkZuG35MI.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Muhammad Hasan Ahmed</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-<img align="right" width="400" src="https://github.com/hasanahmed47/hasanahmed47/blob/main/gXr3j6YAClXFfZABn5.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanahmed47&label=Profile%20views&color=0e75b6&style=flat" alt="hasanahmed47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanahmed47" alt="hasanahmed47" /></a> </p>
 
+<img align="right" width="400" src="https://github.com/hasanahmed47/hasanahmed47/blob/main/dWesBcTLavkZuG35MI.gif?raw=true">
 - 🔭 I’m currently working on **Some of my personal assignments**
 
 - 🌱 I’m currently learning **From SMIT**
